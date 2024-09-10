@@ -1,0 +1,67 @@
+
+body{
+	/*background-image: linear-gradient(to right, lightblue, white);*/
+	/*background-image: linear-gradient(to right top, #081325, #00161f, #001616, #06140d, #0f110a);*/
+	/*background-image: radial-gradient(circle, #050d1d, #001018, #00100f, #060d08, #0b0b0a);*/
+}
+.right-side-button{
+	width: ;
+	height: px;
+	background-color: ;
+	border: 2px solid black;
+	margin-top:20px;
+	border-bottom-left-radius: 100px;
+	border-top-left-radius: 20px;
+	border-top:none;
+	border-right: none;
+	border-color: black;
+	font-family: verdana;
+	margin-top: 50px;
+
+
+
+}
+.left-side-button{
+	width: ;
+	height: 20px;
+	background-color: white;
+}
+.left-side-projects-button{
+	width:% ;
+	height:;
+	background-color: ;
+	border: 2px solid black;
+	margin-top:20px;
+	margin-bottom:20px;
+	border-bottom-right-radius: 100px;
+	border-top-right-radius: 20px;
+	border-top:none;
+	border-left: none;
+	border-bottom-color: gray;
+
+
+}
+.slideshow-name{
+  position: relative;
+  background-color: ;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-delay: ;
+  animation-iteration-count:infinite ;
+  animation-timing-function: linear;
+  text-transform: lowercase;
+  font-family: sans-serif;
+  width: 100%;
+}
+
+@keyframes example{
+from{
+
+	transform: translateX(-100%);
+}
+to{
+	transform: translateX(100%);
+
+}
+}
+
